@@ -29,6 +29,11 @@ a:hover {
     color: #5a5a5a;
 }
 
+a:active {
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
 /* Canvas Background */
 
 #canvas {
