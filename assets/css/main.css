@@ -326,3 +326,16 @@ a:active {
 	left: 80%;
 	opacity: 1;
 }
+
+.privicons {
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 18px;
+}
+
+#privheader {
+    height: 100%;
+    min-height: 100%;
+    color: #1a1a1a;
+    text-align: center;
+}
